@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 <p align="left">
 </p>
 
-[![Gmail Badge] isabelyromaoguedescruz@gmail.com
+ isabelyromaoguedescruz@gmail.com
 
 
 ### Hellooo! 👋 Welcome to my profile
@@ -26,5 +26,4 @@ My name is Isabely and ...:
 
 <h3 align="left">Languages and Tools:
 </h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png">
