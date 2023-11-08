@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 <p align="left">
 </p>
 
- isabelyromaoguedescruz@gmail.com
+ isabelyromaoguedescruz@gmail.com<br>
 https://www.linkedin.com/in/isabely-guedes-b42287290/
 
 ### Hellooo! 👋 Welcome to my profile
