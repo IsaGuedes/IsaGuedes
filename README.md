@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 </p>
 
  isabelyromaoguedescruz@gmail.com
-
+https://www.linkedin.com/in/isabely-guedes-b42287290/
 
 ### Hellooo! 👋 Welcome to my profile
 
