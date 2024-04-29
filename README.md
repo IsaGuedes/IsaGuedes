@@ -26,5 +26,5 @@ My name is Isabely and ...:
 
 <h3 align="left">Languages and Tools:
 </h3>
-<p align="left"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" width="40" height="40"><img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" width="40" height="40"><img src="https://banner2.cleanpng.com/20190202/ih/kisspng-javascript-logo-clip-art-download-copyright-my-profi-world-web-development-5c5543cbb2e0a4.8864677915490917877327.jpg" width="40" height="40"> 
+<p align="left"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" width="40" height="40"><img src="https://cdn.iconscout.com/icon/free/png-512/free-html5-41-1175209.png?f=webp&w=256" width="40" height="40"><img src="https://banner2.cleanpng.com/20190202/ih/kisspng-javascript-logo-clip-art-download-copyright-my-profi-world-web-development-5c5543cbb2e0a4.8864677915490917877327.jpg" width="40" height="40"> 
 
