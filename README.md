@@ -1,6 +1,5 @@
 ## Olá! Eu sou Isabely Guedes :)
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=IsaGuedes&show_icons=true&theme=dark#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api?username=IsaGuedes&show_icons=true&theme=dracula&border_radius=10&border_color=bafdff&include_all_commits=true&locale=pt-br)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=IsaGuedes&show_icons=true&theme=default#gh-light-mode-only)](https://github-readme-stats.vercel.app/api?username=IsaGuedes&show_icons=true&theme=buefy&border_radius=10&border_color=8642a8&include_all_commits=true&locale=pt-br)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=IsaGuedes&show_icons=true&theme=dracula&border_radius=10&border_color=bafdff&include_all_commits=true&locale=pt-br)
 ##
 <div> 
 
