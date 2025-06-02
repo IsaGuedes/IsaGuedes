@@ -1,5 +1,5 @@
 ## Olá! Eu sou Isabely Guedes :)
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=IsaGuedes&show_icons=true&theme=dracula&border_radius=10&border_color=bafdff&include_all_commits=true&locale=pt-br)
+![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=IsaGuedes&show_icons=true&theme=dracula&border_radius=10&border_color=bafdff&include_all_commits=true&locale=pt-br)
 ##
 <div> 
 
